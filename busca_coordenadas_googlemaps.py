@@ -3,7 +3,7 @@
 Scrip criado para busca de coordenadas geográficas no googlemaps
 Planilha excel utilizada como fonte de dados - verificar arquivo auxiliares
 
-chromedriver.exe precisa estar na pasta Documentos
+chromedriver.exe deve estar na pasta Documentos
 
 '''
 
