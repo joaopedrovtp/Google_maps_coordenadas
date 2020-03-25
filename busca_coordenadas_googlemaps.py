@@ -1,7 +1,7 @@
 '''
 
-Scrip criado para busca de coordenadas geográficas no googlemaps
-Planilha excel utilizada como fonte de dados - verificar arquivo auxiliares
+Script criado para busca de coordenadas geográficas no googlemaps
+Planilha excel utilizada como fonte de dados - verificar arquivo 'Layout - Pesquisa coordenadas.xlsx'
 
 'chromedriver.exe' deve estar na pasta Documentos
 
